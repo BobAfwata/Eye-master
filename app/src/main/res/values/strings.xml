@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">
+
+    </string>
+    <string name="activate">ACTIVATE</string>
+    <string name="left">LEFT</string>
+    <string name="right">RIGHT</string>
+    <string name="front">FRONT</string>
+    <string name="rear">REAR</string>
+    <string name="deactivate">DEACTIVATE</string>
+
+
+</resources>
